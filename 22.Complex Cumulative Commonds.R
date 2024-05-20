@@ -1,7 +1,7 @@
-
+#Complex Cumulative Commands refer to a programming technique.
+#Where multiple functions or operations are combined and executed sequentially to perform sophisticated data manipulation and analysis. 
 library(dplyr)
 library(ggplot2)
-
 # Sample dataset
 students <- data.frame(
   name = c("Alice", "Bob", "Charlie", "David", "Emily"),
