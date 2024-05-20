@@ -3,8 +3,6 @@ x<-c(5,6,NA,4,NA,NA,NA)
 d<-is.na(x)
 x=x[!d]
 x
-
-
 data <- data.frame(
   A = c(1, 2, NA, 4, 5),
   B = c(NA, 2, 3, NA, 5),
