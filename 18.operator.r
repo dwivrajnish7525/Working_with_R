@@ -24,4 +24,3 @@ a%/%b
 #For Exponential (^)
 b^a
 
-#Relational Operator
