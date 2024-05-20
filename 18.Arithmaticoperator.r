@@ -1,6 +1,4 @@
-## OPERATORS IN R
-
-#Arithematic Operator(+,-,*,/,%%,%/%,^)
+# ARITHMATIC OPERATORS IN R
 a=10
 b=7
 #For Addition(+)
